@@ -1,0 +1,4 @@
+supabase_password = "grandcircus2025",
+password = "password"
+url = "https://wtbqznccfzjkgxzsqyvg.supabase.co"
+API_key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Ind0YnF6bmNjZnpqa2d4enNxeXZnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mzg4ODg0NTQsImV4cCI6MjA1NDQ2NDQ1NH0.4GEYgMR2uvZbGYfjlH7qhpUsC2uw7dnUIgOLNmDWShA"
